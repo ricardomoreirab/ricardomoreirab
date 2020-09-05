@@ -2,7 +2,7 @@
 
 My name is Ricardo Caldas and I'm a software developer.
 
-<img src="https://raw.githubusercontent.com/ricardomoreirab/ricardomoreirab/master/programming.gif" width="300px">
+<img src="https://raw.githubusercontent.com/ricardomoreirab/ricardomoreirab/master/programming.gif" width="400px">
 
 I am fascinated by technology, it is something that excites me beyond the professional, I am always researching, and reading all the news about what happens in the tech world. In all the teams I've worked with, people always say that I'm an open-minded, sensible and calm thinker who likes to share knowledge with everyone. My great quest is to be part of something that uses technology to improve people's lives.
 
