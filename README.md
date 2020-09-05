@@ -8,7 +8,7 @@ I am fascinated by technology, it is something that excites me beyond the profes
 
 Apart from coding, I also write for Baeldung - you can find my articles on [![LinkedIn][3.2]][3], as I'm always sharing them.
 
-## 🔧 Technologies & Tools
+## 🔧 Main Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
