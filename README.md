@@ -2,7 +2,7 @@
 
 My name is Ricardo Caldas and I'm a software developer.
 
-<img src="https://raw.githubusercontent.com/ricardomoreirab/ricardomoreirab/master/programming.gif" width="400px">
+<img src="https://raw.githubusercontent.com/ricardomoreirab/ricardomoreirab/master/programming.gif" width="350px">
 
 ## &#x270d; Writing
 
