@@ -20,6 +20,9 @@ Apart from coding, I also write for Baeldung - you can find my articles on [![Li
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
 
 
 [![Ricardo Moreira github stats](https://github-readme-stats.vercel.app/api?username=ricardomoreirab&hide=issues,stars&count_private=trueshow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
