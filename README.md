@@ -6,7 +6,7 @@ I am fascinated by technology, it is something that excites me beyond the profes
 
 ## &#x270d; Writing
 
-Apart from coding, I also write for Baeldung - you can find my articles on my [![LinkedIn][3.2]][3], as I'm always sharing them.
+Apart from coding, I also write for Baeldung - you can find my articles on [![LinkedIn][3.2]][3], as I'm always sharing them.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -19,5 +19,5 @@ Apart from coding, I also write for Baeldung - you can find my articles on my [!
 [![Ricardo Moreira github stats](https://github-readme-stats.vercel.app/api?username=ricardomoreirab&hide=issues,stars&count_private=trueshow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[3.2]: https://raw.githubusercontent.com/ricardomoreirab/ricardomoreirab/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/ricardomoreirab/ricardomoreirab/master/linkedin-3-16.png (LinkedIn)
 [3]: https://www.linkedin.com/in/ricardombc/
