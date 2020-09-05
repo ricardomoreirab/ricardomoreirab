@@ -18,6 +18,7 @@ Apart from coding, I also write for Baeldung - you can find my articles on [![Li
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 
